@@ -1,2 +1,2 @@
 # nii4u.github.io
-Personal profile 
+This is the personal profile of Lloyd Thompson. 
